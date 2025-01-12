@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">AVI to MP4</string>
-    <string name="file_exploer">File exploer</string>
+    <string name="file_explorer">File explorer</string>
+    <string name="background_text">Add avi files to convert</string>
+    <string name="top_bar_text">AVI to MP4 file converter</string>
 </resources>
